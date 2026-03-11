@@ -1,4 +1,4 @@
-# Copying_Virtual_Machine
+# vsphere-vm-clone-helper
 
 Small operational helper for cloning VMware vSphere virtual machines with Python and `pyVmomi`.
 
